@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title1": "Your partner",
+    "button": "Start a project?",
+    "title2": "in digital",
+    "description": "We specialize in creating professional websites and marketing solutions that help your business grow in the digital world.",
+    "phone": "PHONE",
+    "email": "EMAIL"
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "What we offer",
+    "cta": "Schedule a meeting",
+    "webDev": {
+      "title": "Web Development",
+      "description": "Modern, responsive websites built with the latest technologies"
+    },
+    "seo": {
+      "title": "SEO Optimization",
+      "description": "Improve your search engine rankings and visibility"
+    },
+    "branding": {
+      "title": "Brand Identity",
+      "description": "Create a memorable brand that stands out"
+    },
+    "marketing": {
+      "title": "Digital Marketing",
+      "description": "Grow your audience with targeted campaigns"
+    },
+    "content": {
+      "title": "Content Creation",
+      "description": "Engaging content that converts visitors into customers"
+    },
+    "ecommerce": {
+      "title": "E-commerce",
+      "description": "Build and scale your online store"
+    }
+  },
+  "about": {
+    "title": "We are committed to designing modern, creative, and intuitive digital solutions, always tailored to each client's unique needs.",
+    "description": "With our experience, we understand that each channel has its own advantages, but their impact is amplified when used strategically and in combination.",
+    "mission": "Our Mission",
+    "missionText": "To empower businesses with cutting-edge digital solutions",
+    "vision": "Our Vision",
+    "visionText": "To be the leading digital partner for ambitious companies",
+    "values": "Our Values",
+    "valuesText": "Innovation, quality, and client success drive everything we do"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Ready to start your project? Contact us today.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "addressText": "New York, NY 10001",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "services": "Services",
+    "company": "Company",
+    "about": "About",
+    "careers": "Careers",
+    "contact": "Contact"
+  }
+}

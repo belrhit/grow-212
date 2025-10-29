@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title1": "Votre partenaire",
+    "button": "Démarrer un projet?",
+    "title2": "en numérique",
+    "description": "Nous nous spécialisons dans la création de sites Web professionnels et de solutions marketing qui aident votre entreprise à croître dans le monde numérique.",
+    "phone": "TÉLÉPHONE",
+    "email": "COURRIEL"
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Ce que nous offrons",
+    "cta": "Planifier une réunion",
+    "webDev": {
+      "title": "Développement Web",
+      "description": "Sites Web modernes et réactifs construits avec les dernières technologies"
+    },
+    "seo": {
+      "title": "Optimisation SEO",
+      "description": "Améliorez votre classement et votre visibilité dans les moteurs de recherche"
+    },
+    "branding": {
+      "title": "Identité de Marque",
+      "description": "Créez une marque mémorable qui se démarque"
+    },
+    "marketing": {
+      "title": "Marketing Digital",
+      "description": "Développez votre audience avec des campagnes ciblées"
+    },
+    "content": {
+      "title": "Création de Contenu",
+      "description": "Contenu engageant qui convertit les visiteurs en clients"
+    },
+    "ecommerce": {
+      "title": "Commerce Électronique",
+      "description": "Construisez et développez votre boutique en ligne"
+    }
+  },
+  "about": {
+    "title": "Nous nous engageons à concevoir des solutions numériques modernes, créatives et intuitives, toujours adaptées aux besoins uniques de chaque client.",
+    "description": "Avec notre expérience, nous comprenons que chaque canal a ses propres avantages, mais leur impact est amplifié lorsqu'ils sont utilisés de manière stratégique et combinée.",
+    "mission": "Notre Mission",
+    "missionText": "Donner aux entreprises des solutions numériques de pointe",
+    "vision": "Notre Vision",
+    "visionText": "Être le partenaire numérique leader pour les entreprises ambitieuses",
+    "values": "Nos Valeurs",
+    "valuesText": "L'innovation, la qualité et le succès client sont au cœur de tout ce que nous faisons"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Prêt à démarrer votre projet? Contactez-nous aujourd'hui.",
+    "phone": "Téléphone",
+    "email": "Courriel",
+    "address": "Adresse",
+    "addressText": "New York, NY 10001",
+    "form": {
+      "name": "Nom",
+      "email": "Courriel",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le Message"
+    }
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "services": "Services",
+    "company": "Entreprise",
+    "about": "À propos",
+    "careers": "Carrières",
+    "contact": "Contact"
+  }
+}
